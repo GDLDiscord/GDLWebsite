@@ -1,1 +1,1 @@
-##GDLDiscord
+GDLDiscord
