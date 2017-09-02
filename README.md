@@ -1,1 +1,1 @@
-GDLDiscord
+GDLDiscord is dead
